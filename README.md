@@ -10,6 +10,8 @@ _Link to gh-pages branch_ _[INSERT GH-PAGES LINK HERE]_
 
 _This is our website to host Eric's doggo!_
 
+## Specs
+
 ## Setup/Installation Requirements
 
 - _Install Git Bash_
