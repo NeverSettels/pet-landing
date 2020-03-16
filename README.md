@@ -20,3 +20,20 @@ _This is our website to host Eric's doggo!_
 ## Known Bugs
 
 _N/A_
+
+## Support and contact details
+
+_Antonio Cruz's email:_ _codrocks.cruz3@gmail.com_ _Eric Settels email:_ _settels.eric@gmail.com_
+
+## Technologies Used
+
+- _Markdown_
+- _CSS_
+- _HTML_
+- _Git_
+
+### License
+
+**The MIT license**
+
+Copyright (c)
